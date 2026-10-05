@@ -17,8 +17,8 @@ We are neither willing nor obliged to take part in dispute resolution proceeding
 
 ## Purchases
 
-Purchases of Satzwerk Pro are handled by Google Play. Google is the contracting party for payment, withdrawal and refunds. The [Google Play Terms of Service](https://play.google.com/about/play-terms/) apply.
+Purchases of Atlyra Pro are handled by Google Play. Google is the contracting party for payment, withdrawal and refunds. The [Google Play Terms of Service](https://play.google.com/about/play-terms/) apply.
 
 ## Privacy
 
-How Satzwerk handles your data is described in the [privacy policy](privacy.md).
+How Atlyra handles your data is described in the [privacy policy](privacy.md).

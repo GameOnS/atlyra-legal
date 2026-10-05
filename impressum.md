@@ -17,8 +17,8 @@ Wir sind nicht bereit und nicht verpflichtet, an Streitbeilegungsverfahren vor e
 
 ## Käufe
 
-Käufe von Satzwerk Pro werden über Google Play abgewickelt. Vertragspartner für Zahlung, Widerruf und Erstattung ist Google. Es gelten die [Nutzungsbedingungen von Google Play](https://play.google.com/about/play-terms/).
+Käufe von Atlyra Pro werden über Google Play abgewickelt. Vertragspartner für Zahlung, Widerruf und Erstattung ist Google. Es gelten die [Nutzungsbedingungen von Google Play](https://play.google.com/about/play-terms/).
 
 ## Datenschutz
 
-Wie Satzwerk mit deinen Daten umgeht, steht in der [Datenschutzerklärung](datenschutz.md).
+Wie Atlyra mit deinen Daten umgeht, steht in der [Datenschutzerklärung](datenschutz.md).

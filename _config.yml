@@ -1,6 +1,6 @@
 # Webseite für die Rechtstexte (GitHub Pages / Jekyll).
 # Den Inhalt dieses Ordners in das Wurzelverzeichnis eines öffentlichen Repos kopieren
 # und dort GitHub Pages aktivieren (Settings → Pages → Branch: main, Ordner: / (root)).
-title: Satzwerk
+title: Atlyra
 lang: de
 theme: jekyll-theme-primer

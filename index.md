@@ -1,4 +1,4 @@
-# Satzwerk
+# Atlyra
 
 Trainingstagebuch für Android und Wear OS / Workout log for Android and Wear OS
 
