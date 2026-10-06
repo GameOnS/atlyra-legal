@@ -7,7 +7,7 @@ Marko Bandur<br>Ornans-Ring 4<br>78183 Hüfingen<br>Deutschland
 
 ## Kontakt
 
-E-Mail: [herzblut.studio@web.de](mailto:herzblut.studio@web.de)
+E-Mail: [herzblut.studio@web.de](mailto:herzblut.studio@web.de)<br>Telefon: +49 177 8386257
 
 <!-- Falls vorhanden, hier ergänzen: Umsatzsteuer-Identifikationsnummer gemäß § 27a UStG bzw. Wirtschafts-Identifikationsnummer. -->
 
