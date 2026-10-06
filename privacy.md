@@ -1,7 +1,7 @@
 <!-- Source for the app (Settings → Privacy policy) and the website. The German version is authoritative. -->
 # Privacy policy for Atlyra
 
-Last updated: 5 October 2026
+Last updated: 6 October 2026
 
 This privacy policy covers the Atlyra app for Android phones and Wear OS watches as well as this website.
 
@@ -100,7 +100,7 @@ The data is stored in the app's private storage. Connections to Google Drive are
 ## This website
 
 <!-- Adjust to the actual host if the site is not served by GitHub Pages. -->
-This website is hosted on GitHub Pages (GitHub B.V., Prins Bernhardplein 200, 1097 JB Amsterdam, Netherlands). When you visit it, GitHub stores technically necessary data such as your IP address to deliver the page and for security reasons (Art. 6(1)(f) GDPR). We do not use cookies or analytics tools ourselves. For details, see the [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
+This website is hosted on GitHub Pages (GitHub B.V., Prins Bernhardplein 200, 1097 JB Amsterdam, Netherlands). When you visit it, GitHub stores technically necessary data such as your IP address to deliver the page and for security reasons (Art. 6(1)(f) GDPR). Data may also be transferred to GitHub, Inc. in the USA. GitHub, Inc. is certified under the EU-US Data Privacy Framework. We do not use cookies or analytics tools ourselves. For details, see the [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
 
 ## Your rights
 

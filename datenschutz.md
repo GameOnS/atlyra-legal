@@ -1,7 +1,7 @@
 <!-- Quelle für die App (Einstellungen → Datenschutzerklärung) und die Webseite. -->
 # Datenschutzerklärung für Atlyra
 
-Stand: 5. Oktober 2026
+Stand: 6. Oktober 2026
 
 Diese Datenschutzerklärung gilt für die App Atlyra für Android-Smartphones und Wear-OS-Uhren sowie für diese Webseite.
 
@@ -100,7 +100,7 @@ Die Daten liegen im privaten Speicherbereich der App. Verbindungen zu Google Dri
 ## Diese Webseite
 
 <!-- An den tatsächlichen Hoster anpassen, falls die Seite nicht über GitHub Pages läuft. -->
-Diese Webseite wird bei GitHub Pages gehostet (GitHub B.V., Prins Bernhardplein 200, 1097 JB Amsterdam, Niederlande). Beim Aufruf speichert GitHub technisch notwendige Daten wie deine IP-Adresse, um die Seite auszuliefern und aus Sicherheitsgründen (Art. 6 Abs. 1 lit. f DSGVO). Wir selbst setzen keine Cookies und keine Analysewerkzeuge ein. Näheres steht in der [Datenschutzerklärung von GitHub](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
+Diese Webseite wird bei GitHub Pages gehostet (GitHub B.V., Prins Bernhardplein 200, 1097 JB Amsterdam, Niederlande). Beim Aufruf speichert GitHub technisch notwendige Daten wie deine IP-Adresse, um die Seite auszuliefern und aus Sicherheitsgründen (Art. 6 Abs. 1 lit. f DSGVO). Dabei können Daten auch an die GitHub, Inc. in den USA übermittelt werden. GitHub, Inc. ist nach dem EU-US Data Privacy Framework zertifiziert. Wir selbst setzen keine Cookies und keine Analysewerkzeuge ein. Näheres steht in der [Datenschutzerklärung von GitHub](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
 
 ## Deine Rechte
 
