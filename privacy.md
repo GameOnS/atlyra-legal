@@ -1,15 +1,15 @@
 <!-- Source for the app (Settings → Privacy policy) and the website. The German version is authoritative. -->
 # Privacy policy for Atlyra
 
-Last updated: 6 October 2026
+Last updated: 7 October 2026
 
 This privacy policy covers the Atlyra app for Android phones and Wear OS watches as well as this website.
 
 ## In short
 
 - Atlyra has no user account, no server of its own, no ads, no tracking and no analytics or crash reporting.
-- Your training data stays on your device. We as the provider never see it.
-- Data only leaves your device when you want it to: for backups to your own Google Drive, for the connection to your watch, when you buy Atlyra Pro through Google Play, and when you export or share something yourself or send us an email.
+- Atlyra initially stores your training data on your device. We as the provider never see it.
+- Data may leave your device for optional backups to your Google Drive, the connection to your watch, Android backup, or when you export or share something. Purchases and emails use Google Play or your email app.
 
 ## Controller and contact
 
@@ -23,7 +23,7 @@ More details are in the [legal notice](imprint.md).
 
 ## What the app stores
 
-Atlyra stores everything you enter only locally on your device, in the app's protected storage that other apps cannot access:
+Atlyra initially stores your entries locally in the app's protected storage. The backups described below may optionally create copies:
 
 - Workouts: exercises, sets, weights, reps, duration, distance, effort (RPE), notes and times
 - Routines and custom exercises
@@ -36,7 +36,7 @@ Body measurements and heart rate can be health data. All entries are optional. T
 
 The only purpose is to provide the app's features: recording workouts, showing history and statistics, managing routines.
 
-**Retention:** The data is kept until you delete it. Settings → "Delete all training data" removes workouts, routines and body measurements. When you uninstall the app, Android deletes all locally stored data.
+**Retention and deletion:** Local data is kept until you delete it. Settings → "Delete all training data" removes workouts, routines and body measurements from your phone; custom exercises remain. This does not delete Google Drive or Android backups or data on your watch. When you uninstall the app, Android removes local app data, but existing backups may remain. The steps for deleting Drive backups are below.
 
 ## Connection to your Wear OS watch
 
@@ -44,13 +44,13 @@ If you use the watch app, the phone and the watch exchange workouts, routines, e
 
 ## Backup to your Google Drive (optional)
 
-If you choose "Connect to Google Drive" in the settings, you sign in with Google through Google Play services and allow access to a hidden folder reserved for Atlyra. The app has no access to your other files in Google Drive.
+If you explicitly consent to connecting Google Drive in the settings, you sign in with Google through Google Play services and allow Atlyra to access a hidden app folder. You cannot view individual backup files in the regular Drive interface; Atlyra can read them for backup and restore. The app has no access to your other files in Google Drive.
 
-- **What is transferred:** a compressed copy of all training data including body measurements, plus the number of workouts as extra information on the backup file. The ten newest backups are kept; the app deletes older ones.
+- **What is transferred:** a compressed copy of all training data including body measurements and manually entered heart rate, plus the number of workouts as extra information on the backup file. Atlyra does not additionally encrypt this copy; transfer to Google Drive uses HTTPS. The ten newest backups are kept; the app deletes older ones.
 - **When:** when you tap "Back up now" and – with Atlyra Pro – automatically every day and shortly after each workout.
 - **Stored on the device:** the email address of the connected Google account (for display), time and checksum of the last backup.
 - **Who receives the data:** The backups are stored in your own Google account. We have no access to them. Google's processing is governed by the [Google Privacy Policy](https://policies.google.com/privacy). For users in Europe the provider is Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland. Data may also be transferred to the USA. Google LLC is certified under the EU-US Data Privacy Framework.
-- **Legal basis:** your consent (Art. 6(1)(a) and Art. 9(2)(a) GDPR), which you give by confirming the notice shown before connecting. You can withdraw it at any time with "Disconnect", which revokes the app's access to your Google Drive.
+- **Legal basis:** your explicit consent (Art. 6(1)(a) and Art. 9(2)(a) GDPR), which you give by tapping "Consent and connect". You can withdraw it at any time with "Disconnect": Atlyra stops further backups and removes the locally stored connection. Backups already uploaded remain until you delete them in Google Drive.
 - **Deleting backups:** In Google Drive in your browser, go to Settings → Manage apps → Atlyra → Options → "Delete hidden app data".
 
 ## Atlyra Pro and purchases
@@ -106,7 +106,7 @@ This website is hosted on GitHub Pages (GitHub B.V., Prins Bernhardplein 200, 10
 
 You have the right of access, rectification, erasure, restriction of processing, data portability and objection, as well as the right to withdraw consent at any time with effect for the future (Art. 15 to 21 and Art. 7(3) GDPR).
 
-Since your training data is only stored with you, you can exercise most rights directly in the app: view and change data, export it as a file or delete it completely. For anything else, email us at [herzblut.studio@web.de](mailto:herzblut.studio@web.de).
+Because we have no access to your training data, you can view, change, export or delete local data directly in the app. You need to manage Drive and Android backups separately; deleting data on your phone does not remove them. For anything else, email us at [herzblut.studio@web.de](mailto:herzblut.studio@web.de).
 
 You can also lodge a complaint with a data protection supervisory authority, for example the one where you live.
 
