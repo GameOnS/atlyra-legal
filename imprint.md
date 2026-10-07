@@ -17,7 +17,7 @@ We are neither willing nor obliged to take part in dispute resolution proceeding
 
 ## Purchases
 
-Purchases of Atlyra Pro are handled by Google Play. Google is the contracting party for payment, withdrawal and refunds. The [Google Play Terms of Service](https://play.google.com/about/play-terms/) apply.
+Atlyra Pro is billed through Google Play. In the European Economic Area, purchases using this billing method form a contract with Google Commerce Limited. Information about cancellation, withdrawal and refunds is in the [Google Play Terms of Service](https://play.google.com/about/play-terms/) applicable to your purchase.
 
 ## Privacy
 
