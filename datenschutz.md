@@ -1,15 +1,15 @@
 <!-- Quelle für die App (Einstellungen → Datenschutzerklärung) und die Webseite. -->
 # Datenschutzerklärung für Atlyra
 
-Stand: 6. Oktober 2026
+Stand: 7. Oktober 2026
 
 Diese Datenschutzerklärung gilt für die App Atlyra für Android-Smartphones und Wear-OS-Uhren sowie für diese Webseite.
 
 ## Kurz gesagt
 
 - Atlyra hat kein Nutzerkonto, keinen eigenen Server, keine Werbung, kein Tracking und keine Analyse- oder Absturzberichte.
-- Deine Trainingsdaten bleiben auf deinem Gerät. Wir als Anbieter bekommen sie nie zu sehen.
-- Daten verlassen dein Gerät nur, wenn du es willst: für die Sicherung in deinem eigenen Google Drive, für die Verbindung mit deiner Uhr, beim Kauf von Atlyra Pro über Google Play und wenn du selbst etwas exportierst, teilst oder uns eine E-Mail schreibst.
+- Atlyra speichert deine Trainingsdaten zunächst auf deinem Gerät. Wir als Anbieter bekommen sie nie zu sehen.
+- Daten können dein Gerät für die optionale Sicherung in deinem Google Drive, die Verbindung mit deiner Uhr, die Android-Sicherung sowie beim Exportieren oder Teilen verlassen. Käufe und E-Mails laufen über Google Play beziehungsweise deine E-Mail-App.
 
 ## Verantwortlicher und Kontakt
 
@@ -23,7 +23,7 @@ Weitere Angaben findest du im [Impressum](impressum.md).
 
 ## Welche Daten die App speichert
 
-Atlyra speichert alles, was du einträgst, ausschließlich lokal auf deinem Gerät im geschützten Speicherbereich der App, auf den andere Apps nicht zugreifen können:
+Atlyra speichert deine Eingaben zunächst lokal im geschützten Speicherbereich der App. Optional können Kopien durch die unten beschriebenen Sicherungen entstehen:
 
 - Trainings: Übungen, Sätze, Gewichte, Wiederholungen, Dauer, Distanz, Anstrengung (RPE), Notizen und Zeitpunkte
 - Trainingspläne und eigene Übungen
@@ -36,7 +36,7 @@ Körpermaße und Puls können Gesundheitsdaten sein. Alle Angaben sind freiwilli
 
 Zweck ist allein, dir die Funktionen der App bereitzustellen: Trainings aufzeichnen, Verlauf und Statistik anzeigen, Pläne verwalten.
 
-**Speicherdauer:** Die Daten bleiben gespeichert, bis du sie löschst. Unter Einstellungen → „Alle Trainingsdaten löschen“ entfernst du Trainings, Pläne und Körpermaße. Beim Deinstallieren der App löscht Android alle lokal gespeicherten Daten.
+**Speicherdauer und Löschen:** Die lokalen Daten bleiben gespeichert, bis du sie löschst. Einstellungen → „Alle Trainingsdaten löschen“ entfernt Trainings, Pläne und Körpermaße auf dem Handy; eigene Übungen bleiben erhalten. Sicherungen in Google Drive oder der Android-Sicherung sowie Daten auf der Uhr werden dadurch nicht gelöscht. Beim Deinstallieren der App entfernt Android die lokalen App-Daten, vorhandene Sicherungen können aber bestehen bleiben. Wie du Drive-Sicherungen löschst, steht unten.
 
 ## Verbindung mit deiner Wear-OS-Uhr
 
@@ -44,13 +44,13 @@ Wenn du die Uhr-App nutzt, tauschen Handy und Uhr Trainings, Pläne, Übungsname
 
 ## Sicherung in deinem Google Drive (optional)
 
-Wenn du in den Einstellungen „Mit Google Drive verbinden“ wählst, meldest du dich über die Google Play-Dienste bei Google an und erlaubst den Zugriff auf einen versteckten Ordner, der nur für Atlyra bestimmt ist. Auf deine übrigen Dateien in Google Drive hat die App keinen Zugriff.
+Wenn du in den Einstellungen ausdrücklich in die Verbindung mit Google Drive einwilligst, meldest du dich über die Google Play-Dienste bei Google an und erlaubst Atlyra den Zugriff auf einen versteckten App-Ordner. Die Sicherungsdateien kannst du in der normalen Drive-Oberfläche nicht einzeln ansehen; Atlyra kann sie für die Sicherung und Wiederherstellung lesen. Auf deine übrigen Dateien in Google Drive hat die App keinen Zugriff.
 
-- **Was übertragen wird:** eine komprimierte Kopie aller Trainingsdaten, einschließlich Körpermaßen, sowie die Anzahl der Trainings als Zusatzangabe zur Sicherungsdatei. Die zehn neuesten Sicherungen bleiben erhalten, ältere löscht die App.
+- **Was übertragen wird:** eine komprimierte Kopie aller Trainingsdaten, einschließlich Körpermaßen und manuell eingetragenem Puls, sowie die Anzahl der Trainings als Zusatzangabe zur Sicherungsdatei. Atlyra verschlüsselt diese Kopie nicht zusätzlich; die Übertragung zu Google Drive läuft über HTTPS. Die zehn neuesten Sicherungen bleiben erhalten, ältere löscht die App.
 - **Wann:** wenn du „Jetzt sichern“ tippst und – mit Atlyra Pro – automatisch täglich und kurz nach jedem Training.
 - **Auf dem Gerät gespeichert:** die E-Mail-Adresse des verbundenen Google-Kontos (zur Anzeige), Zeitpunkt und Prüfsumme der letzten Sicherung.
 - **Wer die Daten erhält:** Die Sicherungen liegen in deinem eigenen Google-Konto. Wir haben keinen Zugriff darauf. Für die Verarbeitung bei Google gilt die [Datenschutzerklärung von Google](https://policies.google.com/privacy). Anbieter für Nutzer in Europa ist die Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland. Dabei können Daten auch in die USA übermittelt werden. Google LLC ist nach dem EU-US Data Privacy Framework zertifiziert.
-- **Rechtsgrundlage:** deine Einwilligung (Art. 6 Abs. 1 lit. a und Art. 9 Abs. 2 lit. a DSGVO), die du erteilst, indem du den Hinweis vor dem Verbinden bestätigst. Du kannst sie jederzeit mit „Verbindung trennen“ widerrufen. Dadurch wird der Zugriff der App auf dein Google Drive aufgehoben.
+- **Rechtsgrundlage:** deine ausdrückliche Einwilligung (Art. 6 Abs. 1 lit. a und Art. 9 Abs. 2 lit. a DSGVO), die du durch „Einwilligen und verbinden“ erteilst. Mit „Verbindung trennen“ kannst du sie jederzeit widerrufen: Atlyra beendet weitere Sicherungen und entfernt die lokal gespeicherte Verbindung. Bereits hochgeladene Sicherungen bleiben bestehen, bis du sie in Google Drive löschst.
 - **Sicherungen löschen:** In Google Drive im Browser unter Einstellungen → Apps verwalten → Atlyra → Optionen → „Versteckte App-Daten löschen“.
 
 ## Atlyra Pro und Käufe
@@ -106,7 +106,7 @@ Diese Webseite wird bei GitHub Pages gehostet (GitHub B.V., Prins Bernhardplein 
 
 Du hast das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit und Widerspruch sowie das Recht, eine Einwilligung jederzeit mit Wirkung für die Zukunft zu widerrufen (Art. 15 bis 21 und Art. 7 Abs. 3 DSGVO).
 
-Da deine Trainingsdaten nur bei dir liegen, kannst du die meisten Rechte direkt in der App ausüben: Daten ansehen und ändern, als Datei exportieren oder vollständig löschen. Für alle anderen Anliegen schreib uns an [herzblut.studio@web.de](mailto:herzblut.studio@web.de).
+Da wir keinen Zugriff auf deine Trainingsdaten haben, kannst du die lokalen Daten direkt in der App ansehen, ändern, exportieren oder löschen. Drive-Sicherungen und die Android-Sicherung musst du getrennt verwalten; das Löschen auf dem Handy entfernt sie nicht. Für alle anderen Anliegen schreib uns an [herzblut.studio@web.de](mailto:herzblut.studio@web.de).
 
 Außerdem kannst du dich bei einer Datenschutz-Aufsichtsbehörde beschweren, etwa bei der Behörde deines Wohnorts.
 
