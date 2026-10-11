@@ -1,15 +1,15 @@
 <!-- Quelle für die App (Einstellungen → Datenschutzerklärung) und die Webseite. -->
 # Datenschutzerklärung für Atlyra
 
-Stand: 7. Oktober 2026
+Stand: 11. Oktober 2026
 
 Diese Datenschutzerklärung gilt für die App Atlyra für Android-Smartphones und Wear-OS-Uhren sowie für diese Webseite.
 
 ## Kurz gesagt
 
-- Atlyra hat kein Nutzerkonto, keinen eigenen Server, keine Werbung, kein Tracking und keine Analyse- oder Absturzberichte.
-- Atlyra speichert deine Trainingsdaten zunächst auf deinem Gerät. Wir als Anbieter bekommen sie nie zu sehen.
-- Daten können dein Gerät für die optionale Sicherung in deinem Google Drive, die Verbindung mit deiner Uhr, die Android-Sicherung sowie beim Exportieren oder Teilen verlassen. Käufe und E-Mails laufen über Google Play beziehungsweise deine E-Mail-App.
+- Atlyra hat kein Nutzerkonto, keine Werbung, kein Tracking und keine Analyse- oder Absturzberichte.
+- Atlyra speichert deine Trainingsdaten zunächst auf deinem Gerät. Wir als Anbieter bekommen sie nicht zu sehen – mit einer Ausnahme: Wenn du den Assistenten Atlyra AI nutzt und dafür einwilligst, gehen die für deine Frage nötigen Daten über unseren Server an einen KI-Anbieter (siehe „Atlyra AI“).
+- Daten können dein Gerät außerdem für die optionale Sicherung in deinem Google Drive, die Verbindung mit deiner Uhr, die Android-Sicherung sowie beim Exportieren oder Teilen verlassen. Käufe und E-Mails laufen über Google Play beziehungsweise deine E-Mail-App.
 
 ## Verantwortlicher und Kontakt
 
@@ -53,6 +53,19 @@ Wenn du in den Einstellungen ausdrücklich in die Verbindung mit Google Drive ei
 - **Rechtsgrundlage:** deine ausdrückliche Einwilligung (Art. 6 Abs. 1 lit. a und Art. 9 Abs. 2 lit. a DSGVO), die du durch „Einwilligen und verbinden“ erteilst. Mit „Verbindung trennen“ kannst du sie jederzeit widerrufen: Atlyra beendet weitere Sicherungen und entfernt die lokal gespeicherte Verbindung. Bereits hochgeladene Sicherungen bleiben bestehen, bis du sie in Google Drive löschst.
 - **Sicherungen löschen:** In Google Drive im Browser unter Einstellungen → Apps verwalten → Atlyra → Optionen → „Versteckte App-Daten löschen“.
 
+## Atlyra AI (optional)
+
+Atlyra AI ist ein Assistent in der App. Er beantwortet Fragen zu deinem Training und schlägt Änderungen an deinen Trainingsplänen vor. Anders als der Rest der App arbeitet er nicht nur auf deinem Gerät: Um zu antworten, schickt die App Daten an einen Server.
+
+Atlyra AI wird erst aktiv, wenn du beim ersten Öffnen ausdrücklich einwilligst. Ohne Einwilligung wird nichts übertragen, und alle anderen Funktionen der App bleiben unverändert nutzbar. Atlyra AI ist für Erwachsene ab 18 Jahren gedacht und nicht in jedem Land verfügbar.
+
+- **Was übertragen wird:** deine Nachrichten an den Assistenten, der bisherige Verlauf des Gesprächs und die Trainingsdaten, die für die jeweilige Frage nötig sind. Das können Trainingspläne, Übungsnamen, Notizen, Trainings mit Sätzen, Gewichten und Wiederholungen sowie daraus berechnete Kennzahlen sein. Körpergewicht und Körpermaße werden nur übertragen, wenn du das zusätzlich erlaubst. Die App überträgt nie den gesamten Datenbestand. Dazu kommen technische Angaben: eine zufällige Kennung deiner Installation, Sprache und Einheiten der App, die App-Version, ein Echtheitsnachweis von Google Play und – wenn du Atlyra Pro hast – die Kaufkennung von Google Play. Wie bei jeder Internetverbindung wird deine IP-Adresse verarbeitet; aus ihr leitet der Server das Land ab, um zu prüfen, ob Atlyra AI dort angeboten werden darf. Das Land wird nicht gespeichert.
+- **Wer die Daten erhält:** Die Anfrage geht an einen von uns betriebenen Server bei Cloudflare (Cloudflare, Inc., 101 Townsend St., San Francisco, CA 94107, USA). Er prüft die Anfrage und reicht sie an Anthropic weiter (Anthropic Ireland, Limited, 6th Floor, South Bank House, Barrow Street, Dublin 4, D04 TR29, Irland), deren Sprachmodell Claude die Antwort erzeugt. Beide verarbeiten die Daten in unserem Auftrag. Um die Echtheit der App und einen Pro-Kauf zu prüfen, fragt der Server bei Google nach; Anbieter für Nutzer in Europa ist die Google Ireland Limited. Dabei werden Daten auch in die USA übermittelt. Cloudflare, Inc. und Google LLC sind nach dem EU-US Data Privacy Framework zertifiziert, mit Anthropic gelten die Standardvertragsklauseln der EU-Kommission.
+- **Was gespeichert wird:** Unser Server speichert keine Gespräche. Er speichert Zähler für die Nutzung, zugeordnet zu einer nicht umkehrbaren Prüfsumme der Installations- bzw. Kaufkennung, und löscht sie 40 Tage nach deiner letzten Anfrage. Um Missbrauch zu begrenzen, merkt er sich außerdem für höchstens zwei Stunden eine Prüfsumme deiner IP-Adresse. Technische Protokolle enthalten keine Inhalte von Gesprächen. Anthropic löscht Ein- und Ausgaben nach eigenen Angaben innerhalb von 30 Tagen und verwendet sie nicht zum Training seiner Modelle. Länger – bis zu zwei Jahre – bewahrt Anthropic nur Inhalte auf, die seine automatische Missbrauchserkennung als Verstoß gegen die Nutzungsrichtlinien markiert, oder wenn ein Gesetz es verlangt. Das Gespräch selbst liegt nur auf deinem Gerät, ist von der Android-Sicherung ausgenommen und wird nach 30 Tagen ohne Nutzung gelöscht.
+- **Änderungen an deinen Daten:** Atlyra AI speichert nichts von sich aus. Vorschläge erscheinen als Vorschau und werden erst übernommen, wenn du sie bestätigst.
+- **Rechtsgrundlage:** deine ausdrückliche Einwilligung (Art. 6 Abs. 1 lit. a und Art. 9 Abs. 2 lit. a DSGVO). Du kannst sie jederzeit in Atlyra AI unter „Datenschutz & Daten“ widerrufen. Der Widerruf löscht das Gespräch auf deinem Gerät und beendet weitere Übertragungen. Die Prüfungen gegen Missbrauch (Zähler, Echtheitsnachweis, Land) stützen sich auf unser berechtigtes Interesse an einem sicheren Betrieb (Art. 6 Abs. 1 lit. f DSGVO).
+- **Grenzen:** Antworten einer KI können falsch sein. Atlyra AI gibt keine medizinischen Ratschläge und ersetzt keine ärztliche Beratung.
+
 ## Atlyra Pro und Käufe
 
 Käufe von Atlyra Pro wickelt Google Play ab. Deine Zahlungsdaten gibst du nur bei Google ein, wir erhalten sie nicht. Die App bekommt von Google Play lediglich Angaben zum Kauf (Produkt, Status und eine Kaufkennung), um Pro freizuschalten, und merkt sich lokal, ob Pro aktiv ist. Beim Start prüft die App außerdem einmalig lokal, ob schon Trainingsdaten vorhanden sind, damit frühe Nutzer ihre bisherigen Funktionen behalten. Dabei wird nichts übertragen.
@@ -87,7 +100,7 @@ Atlyra lässt die eingebaute Sicherung von Android zu. Wenn sie in deinen Gerät
 
 - **Benachrichtigungen:** für den Pausen-Timer und das laufende Training. Die App fragt erst danach, wenn du ein Training startest.
 - **Vibration:** für den Pausen-Timer.
-- **Internet und Netzwerkstatus:** für die Sicherung in Google Drive und für Käufe über Google Play.
+- **Internet und Netzwerkstatus:** für die Sicherung in Google Drive, für Käufe über Google Play und für Atlyra AI.
 - **Hintergrundausführung** (Wake Lock, Vordergrunddienst, Start nach dem Neustart): damit die automatische Sicherung auch im Hintergrund zuverlässig läuft.
 - **Google Play-Abrechnung:** für den Kauf von Atlyra Pro.
 
@@ -95,7 +108,7 @@ Atlyra fragt keine Berechtigungen für Standort, Kontakte, Kamera, Mikrofon oder
 
 ## Datensicherheit
 
-Die Daten liegen im privaten Speicherbereich der App. Verbindungen zu Google Drive laufen verschlüsselt über HTTPS, der Datenaustausch mit der Uhr ist verschlüsselt. Es gibt keine Datenbank beim Anbieter, in der Daten von Nutzern zusammenlaufen.
+Die Daten liegen im privaten Speicherbereich der App. Verbindungen zu Google Drive und zum Server von Atlyra AI laufen verschlüsselt über HTTPS, der Datenaustausch mit der Uhr ist verschlüsselt. Es gibt keine Datenbank beim Anbieter, in der Trainingsdaten von Nutzern zusammenlaufen; für Atlyra AI speichert unser Server nur die dort beschriebenen Nutzungszähler.
 
 ## Diese Webseite
 
@@ -106,7 +119,7 @@ Diese Webseite wird bei GitHub Pages gehostet (GitHub B.V., Prins Bernhardplein 
 
 Du hast das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit und Widerspruch sowie das Recht, eine Einwilligung jederzeit mit Wirkung für die Zukunft zu widerrufen (Art. 15 bis 21 und Art. 7 Abs. 3 DSGVO).
 
-Da wir keinen Zugriff auf deine Trainingsdaten haben, kannst du die lokalen Daten direkt in der App ansehen, ändern, exportieren oder löschen. Drive-Sicherungen und die Android-Sicherung musst du getrennt verwalten; das Löschen auf dem Handy entfernt sie nicht. Für alle anderen Anliegen schreib uns an [herzblut.studio@web.de](mailto:herzblut.studio@web.de).
+Da wir keinen Zugriff auf deine Trainingsdaten haben, kannst du die lokalen Daten direkt in der App ansehen, ändern, exportieren oder löschen. Das Gespräch mit Atlyra AI löschst du dort unter „Datenschutz & Daten“. Drive-Sicherungen und die Android-Sicherung musst du getrennt verwalten; das Löschen auf dem Handy entfernt sie nicht. Für alle anderen Anliegen schreib uns an [herzblut.studio@web.de](mailto:herzblut.studio@web.de).
 
 Außerdem kannst du dich bei einer Datenschutz-Aufsichtsbehörde beschweren, etwa bei der Behörde deines Wohnorts.
 

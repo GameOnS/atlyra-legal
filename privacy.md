@@ -1,15 +1,15 @@
 <!-- Source for the app (Settings → Privacy policy) and the website. The German version is authoritative. -->
 # Privacy policy for Atlyra
 
-Last updated: 7 October 2026
+Last updated: 11 October 2026
 
 This privacy policy covers the Atlyra app for Android phones and Wear OS watches as well as this website.
 
 ## In short
 
-- Atlyra has no user account, no server of its own, no ads, no tracking and no analytics or crash reporting.
-- Atlyra initially stores your training data on your device. We as the provider never see it.
-- Data may leave your device for optional backups to your Google Drive, the connection to your watch, Android backup, or when you export or share something. Purchases and emails use Google Play or your email app.
+- Atlyra has no user account, no ads, no tracking and no analytics or crash reporting.
+- Atlyra initially stores your training data on your device. We as the provider do not see it – with one exception: if you use the assistant Atlyra AI and consent to it, the data needed for your question goes through our server to an AI provider (see "Atlyra AI").
+- Data may also leave your device for optional backups to your Google Drive, the connection to your watch, Android backup, or when you export or share something. Purchases and emails use Google Play or your email app.
 
 ## Controller and contact
 
@@ -53,6 +53,19 @@ If you explicitly consent to connecting Google Drive in the settings, you sign i
 - **Legal basis:** your explicit consent (Art. 6(1)(a) and Art. 9(2)(a) GDPR), which you give by tapping "Consent and connect". You can withdraw it at any time with "Disconnect": Atlyra stops further backups and removes the locally stored connection. Backups already uploaded remain until you delete them in Google Drive.
 - **Deleting backups:** In Google Drive in your browser, go to Settings → Manage apps → Atlyra → Options → "Delete hidden app data".
 
+## Atlyra AI (optional)
+
+Atlyra AI is an assistant inside the app. It answers questions about your training and proposes changes to your routines. Unlike the rest of the app, it does not work on your device alone: to answer, the app sends data to a server.
+
+Atlyra AI only becomes active once you explicitly consent when you first open it. Without consent nothing is transmitted, and every other feature of the app stays available as before. Atlyra AI is meant for adults aged 18 and over and is not available in every country.
+
+- **What is transmitted:** your messages to the assistant, the conversation so far and the training data needed for the question at hand. This can include routines, exercise names, notes, workouts with sets, weights and reps, and figures computed from them. Body weight and body measurements are only transmitted if you allow that separately. The app never transmits your entire data set. In addition there is technical information: a random identifier of your installation, the app's language and units, the app version, a proof of authenticity from Google Play and – if you have Atlyra Pro – the purchase identifier from Google Play. As with any internet connection, your IP address is processed; from it the server derives the country to check whether Atlyra AI may be offered there. The country is not stored.
+- **Who receives the data:** The request goes to a server operated by us at Cloudflare (Cloudflare, Inc., 101 Townsend St., San Francisco, CA 94107, USA). It checks the request and passes it on to Anthropic (Anthropic Ireland, Limited, 6th Floor, South Bank House, Barrow Street, Dublin 4, D04 TR29, Ireland), whose language model Claude generates the answer. Both process the data on our behalf. To verify the authenticity of the app and a Pro purchase, the server queries Google; for users in Europe the provider is Google Ireland Limited. Data is also transferred to the USA. Cloudflare, Inc. and Google LLC are certified under the EU-US Data Privacy Framework; with Anthropic the standard contractual clauses of the European Commission apply.
+- **What is stored:** Our server stores no conversations. It stores usage counters, linked to a non-reversible checksum of the installation or purchase identifier, and deletes them 40 days after your last request. To limit abuse, it also keeps a checksum of your IP address for at most two hours. Technical logs contain no conversation content. According to Anthropic, it deletes inputs and outputs within 30 days and does not use them to train its models. Anthropic keeps content longer – up to two years – only if its automated abuse detection flags it as a violation of its usage policy, or if a law requires it. The conversation itself is stored only on your device, is excluded from Android backup and is deleted after 30 days without use.
+- **Changes to your data:** Atlyra AI saves nothing on its own. Proposals appear as a preview and are only applied once you confirm them.
+- **Legal basis:** your explicit consent (Art. 6(1)(a) and Art. 9(2)(a) GDPR). You can withdraw it at any time in Atlyra AI under "Privacy & data". Withdrawing deletes the conversation on your device and stops further transmissions. The checks against abuse (counters, proof of authenticity, country) are based on our legitimate interest in secure operation (Art. 6(1)(f) GDPR).
+- **Limits:** Answers from an AI can be wrong. Atlyra AI does not give medical advice and is no substitute for seeing a doctor.
+
 ## Atlyra Pro and purchases
 
 Purchases of Atlyra Pro are handled by Google Play. You only enter your payment details with Google; we never receive them. The app only receives purchase information from Google Play (product, status and a purchase identifier) to unlock Pro, and remembers locally whether Pro is active. On start, the app also checks once, locally, whether training data already exists so that early users keep their existing features. Nothing is transferred for this.
@@ -87,7 +100,7 @@ Atlyra allows Android's built-in backup. If it is enabled in your device setting
 
 - **Notifications:** for the rest timer and the current workout. The app only asks when you start a workout.
 - **Vibration:** for the rest timer.
-- **Internet and network state:** for Google Drive backups and purchases through Google Play.
+- **Internet and network state:** for Google Drive backups, purchases through Google Play and Atlyra AI.
 - **Background execution** (wake lock, foreground service, start after reboot): so that automatic backups run reliably in the background.
 - **Google Play billing:** for buying Atlyra Pro.
 
@@ -95,7 +108,7 @@ Atlyra does not request permissions for location, contacts, camera, microphone o
 
 ## Data security
 
-The data is stored in the app's private storage. Connections to Google Drive are encrypted via HTTPS, and the data exchange with the watch is encrypted. There is no database at the provider where users' data comes together.
+The data is stored in the app's private storage. Connections to Google Drive and to the Atlyra AI server are encrypted via HTTPS, and the data exchange with the watch is encrypted. There is no database at the provider where users' training data comes together; for Atlyra AI our server stores only the usage counters described there.
 
 ## This website
 
@@ -106,7 +119,7 @@ This website is hosted on GitHub Pages (GitHub B.V., Prins Bernhardplein 200, 10
 
 You have the right of access, rectification, erasure, restriction of processing, data portability and objection, as well as the right to withdraw consent at any time with effect for the future (Art. 15 to 21 and Art. 7(3) GDPR).
 
-Because we have no access to your training data, you can view, change, export or delete local data directly in the app. You need to manage Drive and Android backups separately; deleting data on your phone does not remove them. For anything else, email us at [herzblut.studio@web.de](mailto:herzblut.studio@web.de).
+Because we have no access to your training data, you can view, change, export or delete local data directly in the app. You delete the conversation with Atlyra AI there under "Privacy & data". You need to manage Drive and Android backups separately; deleting data on your phone does not remove them. For anything else, email us at [herzblut.studio@web.de](mailto:herzblut.studio@web.de).
 
 You can also lodge a complaint with a data protection supervisory authority, for example the one where you live.
 
