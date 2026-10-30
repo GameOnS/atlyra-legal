@@ -1,7 +1,7 @@
 <!-- Source for the app (Settings → Privacy policy) and the website. The German version is authoritative. -->
 # Privacy policy for Atlyra
 
-Last updated: 21 October 2026
+Last updated: 30 October 2026
 
 This privacy policy covers the Atlyra app for Android phones and Wear OS watches as well as this website.
 
@@ -37,7 +37,7 @@ Atlyra initially stores your entries locally in the app's protected storage. The
 - Result of the age check: on first start the app asks for your date of birth, because some features have a minimum age: the app cannot be used under the age of 13, the backup to Google Drive and Health Connect are open from 16, and Atlyra AI and the suggested calorie goal from 18. The date is checked on your device and then neither kept nor transmitted. Only the result is stored: for adults, that they are of age; for people under 18, the day of their 18th birthday, so that the features open by themselves – the date of birth can be read from that day. It is part of the settings, is not included in the Drive backup, and stays stored until you clear the app's data in the Android settings or uninstall the app.
 - Coaching profile if you fill it in: training goal, experience, preferred session length, equipment, focus areas, exercises you would rather not do, and a note. It stays on the device and is included neither in the Drive backup nor in Android's backup.
 - Nutrition diary if you use it: entries with food, amount, meal, day and nutrition values, your own foods, saved meals and recipes, and your nutrition goals, along with the water you log and your supplements with their times and the intakes you tick off. For calculating a calorie goal you can give your year of birth, height, sex and activity; this is not required.
-- Values from Health Connect if you connect it: processed daily values of the last 90 days, such as sleep duration, steps, weight, nutrition, resting heart rate and heart rate variability (see "Health Connect"). They are not part of any backup.
+- Values from Health Connect if you connect it: processed daily values of the last 90 days, such as sleep duration, steps, weight and nutrition (see "Health Connect"). They are not part of any backup.
 
 Body measurements, heart rate, the nutrition diary, values from Health Connect and the note in the coaching profile (for example about an injury) can be health data. Apart from the age check, all entries are optional. Only the watch app reads sensors, and only if you agree there to having your heart rate measured (see "Heart rate measurement with the watch"). The app only accesses Health Connect if you connect it (see "Health Connect").
 
@@ -63,7 +63,7 @@ The watch app can measure your heart rate during a workout. This only happens wh
 
 Under Settings → "Health & data sources" you can connect Atlyra to Health Connect, the Android interface through which apps such as Samsung Health or MyFitnessPal make their data available. Without this connection Atlyra reads no data from other apps, and all other features work as before.
 
-- **What Atlyra reads:** only the areas you select and allow in Health Connect – sleep (duration and sleep stages), steps, workouts from other apps (type, start, end, name), body weight, nutrition (energy, protein, carbohydrates, fat per entry), resting heart rate and heart rate variability. In addition, the name of the app a value comes from. Atlyra requests no other data types, in particular no medical records.
+- **What Atlyra reads:** only the areas you select and allow in Health Connect – sleep (duration and sleep stages), steps, workouts from other apps (type, start, end, name), body weight and nutrition (energy, protein, carbohydrates, fat per entry). In addition, the name of the app a value comes from. Atlyra requests no other data types, in particular no medical records.
 - **Why:** so Atlyra can look at your training together with sleep, everyday activity, weight and nutrition – in notes on the home screen and in the weight history.
 - **Where the data is kept:** Atlyra stores processed values of the last 90 days (for example sleep duration per night, steps per day) in the app's protected storage on your device. They are excluded from Android backup and are part of neither the backup file nor the Google Drive backup. We as the provider never see them.
 - **No sharing with Atlyra AI:** the assistant receives neither data from Health Connect nor summaries of it; there is no setting to share them.
@@ -160,7 +160,7 @@ Atlyra allows Android's built-in backup. If it is enabled in your device setting
 - **Internet and network state:** for Google Drive backups, purchases through Google Play, Atlyra AI and the product search at Open Food Facts.
 - **Background execution** (wake lock, foreground service, start after reboot): so that automatic backups run reliably in the background and home screen widgets get updated.
 - **Google Play billing:** for buying Atlyra Pro.
-- **Health Connect:** reading sleep, steps, workouts, weight, nutrition, resting heart rate and heart rate variability, and writing workouts and entries of the nutrition diary – each only once you switch the feature on and allow it in Health Connect.
+- **Health Connect:** reading sleep, steps, workouts, weight and nutrition, and writing workouts and entries of the nutrition diary – each only once you switch the feature on and allow it in Health Connect.
 
 Atlyra does not request permissions for location, contacts, camera or microphone. Only the watch app uses the body sensors, and only for measuring the heart rate. The barcode scanner in the nutrition diary comes from Google Play services and needs no camera permission from Atlyra. You take a photo for Atlyra AI with your device's camera app; Atlyra receives only that one shot and needs neither a camera permission nor access to your photos for it. Likewise, for voice input in the coach your device's speech recognition does the listening; Atlyra receives only the recognised text and needs no microphone permission.
 

@@ -1,7 +1,7 @@
 <!-- Quelle für die App (Einstellungen → Datenschutzerklärung) und die Webseite. -->
 # Datenschutzerklärung für Atlyra
 
-Stand: 21. Oktober 2026
+Stand: 30. Oktober 2026
 
 Diese Datenschutzerklärung gilt für die App Atlyra für Android-Smartphones und Wear-OS-Uhren sowie für diese Webseite.
 
@@ -37,7 +37,7 @@ Atlyra speichert deine Eingaben zunächst lokal im geschützten Speicherbereich 
 - Ergebnis der Altersabfrage: Beim ersten Start fragt die App nach deinem Geburtsdatum, weil einzelne Funktionen ein Mindestalter haben: Unter 13 Jahren lässt sich die App nicht nutzen, die Sicherung in Google Drive und Health Connect stehen ab 16 Jahren offen, Atlyra AI und der Vorschlag für ein Kalorienziel ab 18 Jahren. Das Datum wird auf deinem Gerät geprüft und danach weder aufbewahrt noch übertragen. Gespeichert wird nur das Ergebnis: bei Erwachsenen, dass sie volljährig sind; bei unter 18-Jährigen der Tag des 18. Geburtstags, damit die Funktionen sich von selbst öffnen – aus diesem Tag lässt sich das Geburtsdatum ablesen. Es gehört zu den Einstellungen, steht nicht in der Drive-Sicherung und bleibt gespeichert, bis du die Daten der App in den Android-Einstellungen löschst oder die App deinstallierst.
 - Coaching-Profil, wenn du es ausfüllst: Trainingsziel, Erfahrung, gewünschte Dauer einer Einheit, Ausrüstung, Schwerpunkte, Übungen, die du lieber nicht machst, und eine Notiz. Es bleibt auf dem Gerät und steht weder in der Drive-Sicherung noch in der Android-Sicherung.
 - Ernährungstagebuch, wenn du es nutzt: Einträge mit Lebensmittel, Menge, Mahlzeit, Tag und Nährwerten, eigene Lebensmittel, gespeicherte Mahlzeiten und Rezepte sowie deine Ernährungsziele, dazu das Wasser, das du einträgst, und deine Supplements mit Uhrzeiten und abgehakten Einnahmen. Für die Berechnung eines Kalorienziels kannst du Geburtsjahr, Körpergröße, Geschlecht und Aktivität angeben; nötig ist das nicht.
-- Werte aus Health Connect, wenn du es verbindest: aufbereitete Tageswerte der letzten 90 Tage, etwa Schlafdauer, Schritte, Gewicht, Ernährung, Ruhepuls und Herzfrequenzvariabilität (siehe „Health Connect“). Sie stehen in keiner Sicherung.
+- Werte aus Health Connect, wenn du es verbindest: aufbereitete Tageswerte der letzten 90 Tage, etwa Schlafdauer, Schritte, Gewicht und Ernährung (siehe „Health Connect“). Sie stehen in keiner Sicherung.
 
 Körpermaße, Puls, das Ernährungstagebuch, Werte aus Health Connect und die Notiz im Coaching-Profil (etwa zu einer Verletzung) können Gesundheitsdaten sein. Bis auf die Altersabfrage sind alle Angaben freiwillig. Sensoren liest nur die Uhr-App aus, und nur wenn du dort dem Messen des Pulses zustimmst (siehe „Pulsmessung mit der Uhr“). Auf Health Connect greift sie nur zu, wenn du es verbindest (siehe „Health Connect“).
 
@@ -63,7 +63,7 @@ Die Uhr-App kann während eines Trainings deinen Puls messen. Das geschieht nur,
 
 Unter Einstellungen → „Gesundheit & Datenquellen“ kannst du Atlyra mit Health Connect verbinden, der Schnittstelle von Android, über die Apps wie Samsung Health oder MyFitnessPal ihre Daten bereitstellen. Ohne diese Verbindung liest Atlyra keine Daten anderer Apps, und alle anderen Funktionen bleiben unverändert nutzbar.
 
-- **Was Atlyra liest:** nur die Bereiche, die du auswählst und in Health Connect erlaubst – Schlaf (Dauer und Schlafphasen), Schritte, Trainingseinheiten anderer Apps (Art, Beginn, Ende, Name), Körpergewicht, Ernährung (Energie, Eiweiß, Kohlenhydrate, Fett je Eintrag), Ruhepuls und Herzfrequenzvariabilität. Dazu den Namen der App, aus der ein Wert stammt. Andere Datenarten fragt Atlyra nicht an, insbesondere keine medizinischen Unterlagen.
+- **Was Atlyra liest:** nur die Bereiche, die du auswählst und in Health Connect erlaubst – Schlaf (Dauer und Schlafphasen), Schritte, Trainingseinheiten anderer Apps (Art, Beginn, Ende, Name), Körpergewicht und Ernährung (Energie, Eiweiß, Kohlenhydrate, Fett je Eintrag). Dazu den Namen der App, aus der ein Wert stammt. Andere Datenarten fragt Atlyra nicht an, insbesondere keine medizinischen Unterlagen.
 - **Wozu:** damit Atlyra dein Training zusammen mit Schlaf, Alltagsbewegung, Gewicht und Ernährung einordnen kann – in Hinweisen auf der Startseite und im Gewichtsverlauf.
 - **Wo die Daten liegen:** Atlyra speichert aufbereitete Werte der letzten 90 Tage (zum Beispiel Schlafdauer je Nacht, Schritte je Tag) im geschützten Speicherbereich der App auf deinem Gerät. Sie sind von der Android-Sicherung ausgenommen und stehen weder im Backup noch in der Sicherung in Google Drive. Wir als Anbieter bekommen sie nicht zu sehen.
 - **Keine Weitergabe an Atlyra AI:** Der Assistent bekommt weder Daten aus Health Connect noch Auswertungen davon; dafür gibt es keine Freigabe.
@@ -160,7 +160,7 @@ Atlyra lässt die eingebaute Sicherung von Android zu. Wenn sie in deinen Gerät
 - **Internet und Netzwerkstatus:** für die Sicherung in Google Drive, für Käufe über Google Play, für Atlyra AI und für die Produktsuche bei Open Food Facts.
 - **Hintergrundausführung** (Wake Lock, Vordergrunddienst, Start nach dem Neustart): damit die automatische Sicherung auch im Hintergrund zuverlässig läuft und Widgets auf dem Startbildschirm aktualisiert werden.
 - **Google Play-Abrechnung:** für den Kauf von Atlyra Pro.
-- **Health Connect:** Lesen von Schlaf, Schritten, Trainingseinheiten, Gewicht, Ernährung, Ruhepuls und Herzfrequenzvariabilität sowie Schreiben von Trainingseinheiten und Einträgen des Ernährungstagebuchs – jeweils erst, wenn du die Funktion einschaltest und in Health Connect erlaubst.
+- **Health Connect:** Lesen von Schlaf, Schritten, Trainingseinheiten, Gewicht und Ernährung sowie Schreiben von Trainingseinheiten und Einträgen des Ernährungstagebuchs – jeweils erst, wenn du die Funktion einschaltest und in Health Connect erlaubst.
 
 Atlyra fragt keine Berechtigungen für Standort, Kontakte, Kamera oder Mikrofon an. Die Körpersensoren nutzt nur die Uhr-App, und nur für die Pulsmessung. Der Barcode-Scanner im Ernährungstagebuch kommt von den Google Play-Diensten und braucht keine Kamera-Berechtigung von Atlyra. Ein Foto für Atlyra AI nimmst du mit der Kamera-App deines Geräts auf; Atlyra bekommt nur diese eine Aufnahme und braucht dafür weder eine Kamera-Berechtigung noch Zugriff auf deine Fotos. Ebenso hört bei der Spracheingabe im Coach die Spracherkennung deines Geräts zu; Atlyra bekommt nur den erkannten Text und braucht kein Mikrofon-Recht.
 
